@@ -1,4 +1,5 @@
 
+
 MY INVENTORIST - Gestionnaire d'Inventaire
 
 Description: 
@@ -48,3 +49,5 @@ License
 Ce projet est sous licence MIT.
 
 Avec MY INVENTORIST, la gestion de votre inventaire devient simple et efficace !
+
+![UML Use_Case](https://github.com/user-attachments/assets/29cea113-8d21-47f4-9f05-46bc66fb7180)
